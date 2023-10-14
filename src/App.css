@@ -1,0 +1,22 @@
+.Word-Count-Box{
+  border:3px solid whitesmoke;
+  box-shadow: 0 0 5px rgb(239, 237, 237);
+  display:block;
+  margin:50px 150px 0 250px;
+  padding-bottom: 20px;
+}
+textarea{
+  margin-left:15px;
+  border-radius: 5px;
+}
+textarea:focus{
+  border-color: black;
+  outline:none;
+
+}
+.Writing{
+  text-align: center;
+}
+.Word-Count{
+  margin:10px;  
+}

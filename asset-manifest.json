@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word_count_textbox_reacttasks1/static/css/main.9081c290.css",
+    "main.js": "/word_count_textbox_reacttasks1/static/js/main.7cb8cb1d.js",
+    "index.html": "/word_count_textbox_reacttasks1/index.html",
+    "main.9081c290.css.map": "/word_count_textbox_reacttasks1/static/css/main.9081c290.css.map",
+    "main.7cb8cb1d.js.map": "/word_count_textbox_reacttasks1/static/js/main.7cb8cb1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9081c290.css",
+    "static/js/main.7cb8cb1d.js"
+  ]
+}
